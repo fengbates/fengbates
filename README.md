@@ -6,9 +6,9 @@
 **Focus areas:** low-latency stateful services, exactly-once processing and crash recovery, financial ledgers, pre-trade risk controls.
 
 My professional code is proprietary, so it isn't published here. I'm happy to walk through designs in detail, for example:
-- OMS restart and graceful-shutdown recovery using in-band barrier markers
+- Cryto exchange design hot paths and scalability solutions.
 - Two-step deposit and withdrawal flows that make double credits structurally impossible
-- Liquidation-risk monitoring based on liquidation notional near the mark price
+- Margin and Future contract risk manangement and Liquidation process.
 
 **Currently learning:** Go, Kubernetes
 
